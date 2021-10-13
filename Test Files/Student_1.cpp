@@ -12,6 +12,12 @@ int main()
         res = res*n1;
     }
     
+    
+    for(int i=0;i<n2;i++)
+    {
+        res = res*n1;
+    }
+    
     cout<<res;
     return 0;
 }
