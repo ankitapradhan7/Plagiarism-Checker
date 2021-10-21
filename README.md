@@ -1,5 +1,13 @@
 # Plagiarism-Checker
 
+## What is Plagiarism?
+
+-to steal and pass off (the ideas or words of another) as one's own
+-to use (another's production) without crediting the source
+-to commit literary theft
+-to present as new and original an idea or product derived from an existing source
+
+
 ## Project Overview
 This project checks plagiarism between two files. The comparison is based on cosine similarity.
 
