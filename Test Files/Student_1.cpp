@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+// this is a comment 
 int main()
 {
     int n1,n2,res=1;
